@@ -8,7 +8,6 @@ class Program
           armLength,
           backLength,
           sLength;
-    
 
     static void Main(string[] args)
     {
