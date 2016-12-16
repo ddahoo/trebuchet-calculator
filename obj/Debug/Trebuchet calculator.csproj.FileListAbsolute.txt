@@ -1,0 +1,4 @@
+C:\Users\Daryl\Desktop\Trebuchet calculator\bin\Debug\Trebuchet calculator.exe
+C:\Users\Daryl\Desktop\Trebuchet calculator\bin\Debug\Trebuchet calculator.pdb
+C:\Users\Daryl\Desktop\Trebuchet calculator\obj\Debug\Trebuchet calculator.exe
+C:\Users\Daryl\Desktop\Trebuchet calculator\obj\Debug\Trebuchet calculator.pdb

@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "295cbffc453a05f1f07c9ea23190a9e583b31478"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "trebuchet calculator/1.0.0": {
+        "dependencies": {
+          "Microsoft.NET.Sdk": "1.0.0-alpha-20161104-2"
+        },
+        "runtime": {
+          "Trebuchet calculator.dll": {}
+        }
+      },
+      "microsoft.net.sdk/1.0.0-alpha-20161104-2": {
+        "dependencies": {
+          "NuGet.Build.Tasks.Pack": "4.0.0-rc-2048"
+        }
+      },
+      "nuget.build.tasks.pack/4.0.0-rc-2048": {}
+    }
+  },
+  "libraries": {
+    "trebuchet calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "microsoft.net.sdk/1.0.0-alpha-20161104-2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LBVbYOuEE9NRgX67mHTtIwl3QPpTQFVw0oHVKpxa/VIz+FrmGxdi0r7GyFS0CPB3TdURb8X/cFp+Enh3Y73bCA==",
+      "path": "microsoft.net.sdk/1.0.0-alpha-20161104-2",
+      "hashPath": "microsoft.net.sdk.1.0.0-alpha-20161104-2.nupkg.sha512"
+    },
+    "nuget.build.tasks.pack/4.0.0-rc-2048": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BaLMBHv6soXYf3Ox10bkotanWLE/wj0jxCQ2oue7FkRUEuROaOZnuBGoIcvxM/OAmi8t+nnPfwlCtkEbGIKRMQ==",
+      "path": "nuget.build.tasks.pack/4.0.0-rc-2048",
+      "hashPath": "nuget.build.tasks.pack.4.0.0-rc-2048.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Daryl\Desktop\Trebuchet calculator\bin\Debug\netcoreapp1.0\Trebuchet calculator.dll
+C:\Users\Daryl\Desktop\Trebuchet calculator\bin\Debug\netcoreapp1.0\Trebuchet calculator.pdb
+C:\Users\Daryl\Desktop\Trebuchet calculator\obj\Debug\netcoreapp1.0\Trebuchet calculator.AssemblyInfo.cs
+C:\Users\Daryl\Desktop\Trebuchet calculator\obj\Debug\netcoreapp1.0\Trebuchet calculator.dll
+C:\Users\Daryl\Desktop\Trebuchet calculator\obj\Debug\netcoreapp1.0\Trebuchet calculator.pdb
