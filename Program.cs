@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    float tHeight,      // Height of  
+    float tHeight,      // Height of the mass, from the initial position of the arm. 
           pMass,        // Mass of the projectile, in kilgrams.
           wMass,        // Mass of the weight, in kilograms.
           armLength,    // Length of the longest part of the arm from the pivot point, in metres.
