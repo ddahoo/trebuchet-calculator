@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    float tHeight,
+    float tHeight,      
           pMass,
           wMass,
           armLength,
